@@ -6,7 +6,7 @@
 <p> sudo apt-get install traceroute </p>
 <p> sudo apt-get install nmap </p> 
 <p> sudo apt-get install graphviz </p> 
-
+<p> sudo apt-get install feh (uniquement si aucun visionneur image) </p>
 <h2> ##Fabriqué avec les outil:</h2>  
 <p> -> traceroute </p> 
 <p> -> nmap </p> 
