@@ -1,6 +1,6 @@
 #Cartographie de l'iut de Béziers
 *************************************
-L'objectif du projet est de réaliser la cartographie du net.
+<p>L'objectif du projet est de réaliser la cartographie du net.</p>
 *************************************
 ##Pré-requis
 sudo apt-get install traceroute
