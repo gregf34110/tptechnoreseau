@@ -1,7 +1,8 @@
-#Cartographie de l'iut de Béziers
-*************************************
-<p>L'objectif du projet est de réaliser la cartographie du net.</p>
-*************************************
+<h1> #Cartographie de l'iut de Béziers </h2>
+  <p> ************************************* </p>
+  <p>L'objectif du projet est de réaliser la cartographie du net.</p>
+<p> ************************************* </p>
+
 ##Pré-requis
 sudo apt-get install traceroute
 sudo apt-get install nmap 
