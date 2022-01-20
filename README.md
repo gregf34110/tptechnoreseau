@@ -12,6 +12,9 @@
 <p> -> nmap </p> 
 <p> -> graphviz </p> 
 
+<h2> ## Installation </h2>
+<p> git clone https://github.com/gregf34110/tptechnoreseau.git </p>
+<p> git pull #Mettre le dépot local à jour. </p>
 <h2> ##Fonctionnement </h2> 
 <p> Pour démarer le programme utiliser la commande bash traceroute.sh, 
 ensuite le programme vous demanderas combien d'adresse ip vous voulez analyser. 
